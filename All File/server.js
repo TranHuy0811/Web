@@ -21,7 +21,8 @@ const mongoose=require('mongoose')
 connectDB()
 app.use(Logger)
 app.use(credentials)
-app.use(cors(corsOption))
+
+app.use(cors(corsOption)); // Third party Middleware (CORS: Cross Origin Resource Sharing) (Import)
 
 app.use(express.urlencoded({extended:false}))
 app.use(express.json())

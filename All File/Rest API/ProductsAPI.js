@@ -63,6 +63,7 @@ router.route('/:id')
         }
         catch(err){res.status(500).json({"message":"No Product matches this ID" })}
     })
+
 router.route('/search/:value')
     .get(async(req,res)=>{
         const regex=new RegExp(`^${req.params.value}`, 'gi')
@@ -70,4 +71,6 @@ router.route('/search/:value')
         if(!products) return res.sendStatus(204).json({"message":"No Product Found."})
         res.json({products})
     })
+
+
 module.exports=router

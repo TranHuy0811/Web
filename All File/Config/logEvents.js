@@ -6,7 +6,7 @@ const fsPromises=require('fs').promises
 async function Event(message) {
     let datetime=format(new Date(),'yy/MM/dd\tHH:mm:ss')
     let logItem=`${datetime} ${uuid()} - ${message}\n`
-    await fsPromises.appendFile(path.join(__dirname,"logText.txt"),logItem)
+    fsPromises.appendFile(path.join(__dirname,"logText.txt"),logItem)
 }
 const Logger=(req,res,next) => {
     Event(`${req.method}   ${req.headers.origin}   ${req.url}`)
