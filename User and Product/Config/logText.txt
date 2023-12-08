@@ -1,0 +1,86 @@
+23/12/01	16:27:12 de01c7d8-0a77-4bec-b59e-3e13ac339e9a - GET   http://127.0.0.1:5500   /products
+23/12/02	04:28:31 5cec7fbf-be4b-4a34-bdbb-d26601a47dfe - GET   http://127.0.0.1:5500   /products/search/
+23/12/02	04:28:33 8c1abf95-59a3-46d2-82cd-9b9006e361ee - GET   http://127.0.0.1:5500   /products/search/
+23/12/02	04:28:34 3ec6c84f-cabb-45b4-be35-fd49b887537c - GET   http://127.0.0.1:5500   /products/search/
+23/12/02	04:28:38 fb7b24c6-159b-4616-a209-1c8e7c086ead - GET   http://127.0.0.1:5500   /products/search/c
+23/12/06	02:27:22 05d5a2e7-997f-47d3-9f07-ab3907102214 - POST   undefined   /auth
+23/12/06	02:27:34 69549574-57d0-477a-a359-da279e6cdc50 - GET   undefined   /products
+23/12/06	02:27:40 f0d1a9bb-dd0a-41b6-be78-60afb98a8bd4 - POST   undefined   /products
+23/12/06	02:27:40 ffe28abb-9f02-4620-bc14-bb76fcfa8ef0 - TypeError: Cannot set properties of undefined (setting '0')
+23/12/06	02:27:52 56d061f6-0b65-4739-8a5b-d42649d57893 - POST   undefined   /products
+23/12/06	02:28:48 ad75f36e-8a4d-4dda-9a8c-d21f12aaab48 - POST   undefined   /products
+23/12/06	02:29:17 dd3ad666-5cc2-43d0-9c2c-0966f370112c - POST   undefined   /auth
+23/12/06	02:30:48 0f3e624e-9966-4475-8834-bcfb8a24c65d - GET   undefined   /products
+23/12/06	02:30:52 e1bb8f0b-e5e9-4b9a-a90e-f1dc4e32af5c - POST   undefined   /auth
+23/12/06	02:30:59 dfd0cf78-c977-4b53-a0d3-cd316118cb2b - GET   undefined   /products
+23/12/06	02:31:02 901b2e0f-837d-4968-9e2f-7992db56cd1b - GET   undefined   /products
+23/12/06	02:31:05 709303ed-0116-49ec-a6b6-912071a61634 - GET   undefined   /products
+23/12/06	02:31:07 b53c686a-3c9f-4b07-84a1-a57a4d8bddb5 - GET   undefined   /products
+23/12/06	02:31:08 521298ee-79b0-4495-a574-883846bb8ebc - GET   undefined   /products
+23/12/06	02:31:19 34186ce5-63c5-40be-88a7-9ce4cbf77d02 - POST   undefined   /products
+23/12/06	02:39:47 cf69fdf4-0da0-48b3-9807-04bf3198a307 - POST   undefined   /auth
+23/12/06	02:39:54 7368ab04-bf53-463e-ae88-b75cacbe4a07 - POST   undefined   /products
+23/12/06	02:39:54 83859796-6eed-414c-b23e-6b5f99e5f8d1 - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:40:07 f181c3bb-f2f6-4433-9566-3a370df5b217 - POST   undefined   /products
+23/12/06	02:40:07 b5ce9afc-393c-498e-9ecb-38cfbfd8a2d9 - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:40:56 85817495-1e23-4dad-b308-44bbc048da58 - POST   undefined   /auth
+23/12/06	02:41:02 c051561d-9061-45ce-b275-3b1dae947671 - POST   undefined   /products
+23/12/06	02:41:02 559e661c-b46b-455a-981e-b583ea2b1aa2 - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:41:29 7de23ef1-d12c-415a-90c4-89e30f363681 - GET   undefined   /products
+23/12/06	02:41:33 23a038a3-d0f3-4bfe-81ed-b2524801acda - POST   undefined   /products
+23/12/06	02:41:33 3226e2ab-49b9-42ca-a51d-76f5e590859a - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:42:00 b001e80d-9fa5-4a1a-8c26-814030ab3311 - POST   undefined   /products
+23/12/06	02:42:06 fc57efa1-6069-4e93-b860-98980c666a2a - POST   undefined   /products
+23/12/06	02:43:21 71250fe2-4a84-4f74-abe6-f3747f3fea15 - GET   undefined   /products
+23/12/06	02:43:23 ee9b75d3-241b-4902-9b0e-1864efc93733 - POST   undefined   /products
+23/12/06	02:43:23 e32a6494-475c-452c-a948-8be0b09baf9f - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:44:07 a31010a2-9f3e-4ebf-a16c-95d95f023fa5 - POST   undefined   /products
+23/12/06	02:44:07 70e44860-e644-4f4d-8b5c-7f2a3a02f49a - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:44:45 3c3b0f12-6e25-41cf-bc19-a0b8fd48e43d - POST   undefined   /products
+23/12/06	02:44:45 ad03fb00-b1f0-4226-850d-33ed0c636c4b - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:45:31 2f64dcf5-2d86-4bcf-8917-58a547150016 - GET   undefined   /products
+23/12/06	02:45:32 cf47f8f6-7fb9-4673-babd-53b1e375b46d - POST   undefined   /products
+23/12/06	02:45:32 ecfc7fdb-3d85-4593-8c58-f772777946d2 - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:45:46 5b518b8e-db4a-4cd8-9177-3bc6cb9e1486 - GET   undefined   /products
+23/12/06	02:45:47 ab4477f5-65be-415a-9133-21d7357c1efd - POST   undefined   /products
+23/12/06	02:45:47 2ec80e19-5b69-4ffb-a1a3-a43a33490fbc - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:46:24 f5800f2e-2a0a-472f-9403-4e7e5b44265a - POST   undefined   /products
+23/12/06	02:46:24 b1f64819-97ab-4504-9806-298450b0b801 - TypeError: Cannot read properties of undefined (reading 'roles')
+23/12/06	02:50:21 13cc1018-c362-4a5b-9a11-c4d2913c97af - POST   undefined   /products
+23/12/06	02:50:21 24bfa9ed-1c07-4a67-89f0-29337c0530b6 - TypeError: Assignment to constant variable.
+23/12/06	02:50:25 092bb385-cd26-47b0-bfab-39cafc6f5a50 - GET   undefined   /products
+23/12/06	02:50:26 c22a6539-444b-4228-9ca1-bb9579145da5 - POST   undefined   /products
+23/12/06	02:50:26 b558a000-b699-43e8-99ea-75a9e1eb431d - TypeError: Assignment to constant variable.
+23/12/06	02:51:28 dcd4c356-28e7-4152-a7f8-a9c9f823ced9 - POST   undefined   /products
+23/12/06	02:51:28 10b6d890-b5ed-4078-9009-7a515c8e2bb6 - TypeError: Assignment to constant variable.
+23/12/06	02:51:48 4f725175-704a-4f42-aa3c-28e096277c20 - POST   undefined   /products
+23/12/06	02:51:48 534770f8-714d-440d-9acc-1119b0f7b4bf - TypeError: Assignment to constant variable.
+23/12/06	02:52:18 d2748959-0d5f-4917-8a60-2cec1c8d9a12 - POST   undefined   /products
+23/12/06	02:52:18 84680413-65df-4afc-8ed5-1892fc88a7f6 - TypeError: Assignment to constant variable.
+23/12/06	02:52:45 30a455cc-d60e-4d5b-a12e-88ec86390884 - POST   undefined   /products
+23/12/06	02:52:54 42352edb-7f12-4125-bb16-0084e968f22c - POST   undefined   /auth
+23/12/06	02:53:01 901a46b4-6d7c-4a73-baff-352d49e637fa - POST   undefined   /products
+23/12/06	02:53:08 92fbea8c-8137-4d7d-8b9f-6ae2b2f998d4 - POST   undefined   /products
+23/12/06	02:53:13 fc07f774-eb80-48e6-969b-d5fca7de5c63 - DELETE   undefined   /products
+23/12/06	02:53:15 be541883-f698-42b8-8c73-67ab6e40e1b4 - DELETE   undefined   /products
+23/12/06	02:53:27 d0ce664e-f4f9-4d60-a296-2754e7577fcb - DELETE   undefined   /products
+23/12/06	02:53:34 f1f3f73f-9eb6-435c-b7a3-db51ba8430db - DELETE   undefined   /products
+23/12/06	02:53:43 a6bbc6a3-5e26-4fc5-8e1d-5ce9590f0641 - GET   undefined   /products/search/d%C3%A2dad
+23/12/07	17:27:01 4e530860-002b-43e5-bc17-dbeb9519cf89 - Error: Not allowed by CORS
+23/12/08	15:22:51 93e79902-b25b-4d73-9681-6aea64ba0ece - POST   undefined   /register
+23/12/08	15:23:03 532d8d9a-63df-4d2c-b042-657d8670f762 - POST   undefined   /register
+23/12/08	15:23:06 7eb9675d-9776-4b2c-8d48-71d4a98c751b - POST   undefined   /auth
+23/12/08	15:23:17 0e7b0d10-a577-4e92-95fa-b52aa05a2e64 - GET   undefined   /logout
+23/12/08	15:23:19 3c92268b-7211-4038-a0d1-d3784a3553fd - GET   undefined   /refresh
+23/12/08	15:23:21 06146bcb-3b2b-432a-a877-ba22573c372e - POST   undefined   /auth
+23/12/08	15:23:25 d62f8a98-c686-43b8-b143-75cd5d6fd67c - GET   undefined   /products
+23/12/08	15:23:29 51be8989-521f-4c76-a800-3fcd1b40b0bc - POST   undefined   /auth
+23/12/08	15:23:33 8f3a69bc-0131-42a1-89c0-f12ced2aa0e1 - GET   undefined   /products
+23/12/08	15:23:37 bf6b0b3f-cbc0-4770-bbd9-ebfbbd1fca12 - GET   undefined   /products
+23/12/08	15:23:40 c28115a8-c56a-4b34-bb6f-9f412dd70d9f - POST   undefined   /products
+23/12/08	15:23:42 84e30de4-5900-4cf6-bf0a-41c6961a48e2 - POST   undefined   /auth
+23/12/08	15:23:58 4e1619c0-2f72-4003-9ac7-503436787577 - POST   undefined   /products
+23/12/08	15:24:00 ab89bc58-509a-43ea-b369-6131af5834a8 - POST   undefined   /products
+23/12/08	15:24:57 4344a8e7-3f74-48e6-a58c-497bbb2f5856 - GET   undefined   /products
+23/12/08	15:24:59 bcd2e83f-ae3a-4116-8190-3b5cca320d3e - GET   undefined   /products
+23/12/08	15:25:03 a6858a82-0499-4111-9112-658d6bbabffe - POST   undefined   /products
